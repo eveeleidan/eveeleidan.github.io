@@ -228,8 +228,7 @@ input[type="text"]::placeholder {
 
 
 .blog__about .text-center img {
-    border-radius: 100%;
-    outline: 2px solid white;
+    15px;
     margin-bottom: 15px;
     object-fit: fill;
     object-position: center;
